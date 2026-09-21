@@ -57,3 +57,5 @@ On Windows, PyStan requires a compiler so you'll need to [follow the instruction
 ### Version 0.1 (2017.02.23)
 
 - Initial release
+
+<!-- Placeholder update for repository workflow verification. -->
